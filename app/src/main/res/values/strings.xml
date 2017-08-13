@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IAK Quiz App</string>
+    <string name="q1">What logo is this?</string>
+    <string name="q1a1">Android</string>
+    <string name="q1a2">iOS</string>
+    <string name="q1a3">Windows Phone</string>
+    <string name="q1a4">Blackberry</string>
+    <string name="btnNext">Next</string>
+    <string name="q1title">Question 1</string>
+    <string name="q2title">Question 2</string>
+    <string name="q3title">Question 3</string>
+    <string name="quizResult">Result</string>
+    <string name="q2">When IAK batch 3 term 2 is being held?</string>
+    <string name="q3">What is the short term of Indonesia Android Kejar?</string>
+    <string name="q2a1">July</string>
+    <string name="q2a2">August</string>
+    <string name="q2a3">September</string>
+    <string name="q2a4">October</string>
+    <string name="q2warning">Pick 2 answers!</string>
+    <string name="q1warning">Pick 1 answer!</string>
+    <string name="q3hint">Input your answer here</string>
+    <string name="q3warning">Answer can not be empty!</string>
+</resources>

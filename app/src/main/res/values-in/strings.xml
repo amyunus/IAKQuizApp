@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IAK Quiz App</string>
+    <string name="q1">Logo apakah ini?</string>
+    <string name="q1a1">Android</string>
+    <string name="q1a2">iOS</string>
+    <string name="q1a3">Windows Phone</string>
+    <string name="q1a4">Blackberry</string>
+    <string name="btnNext">Selanjutnya</string>
+    <string name="q1title">Pertanyaan 1</string>
+    <string name="q2title">Pertanyaan 2</string>
+    <string name="q3title">Pertanyaan 3</string>
+    <string name="quizResult">Hasil</string>
+    <string name="q2">Kapan IAK batch 3 term 2 diselenggarakan?</string>
+    <string name="q3">Apakah singkatan dari Android Indonesia Kejar?</string>
+    <string name="q2a1">Juli</string>
+    <string name="q2a2">Agustus</string>
+    <string name="q2a3">September</string>
+    <string name="q2a4">Oktober</string>
+    <string name="q2warning">Pilih 2 jawaban!</string>
+    <string name="q1warning">Pilih 1 jawaban!</string>
+    <string name="q3hint">Masukkan jawabanmu di sini</string>
+    <string name="q3warning">Jawaban tidak boleh kosong!</string>
+</resources>
